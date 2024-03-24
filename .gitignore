@@ -1,2 +1,9 @@
 **/bin/
 **/obj/
+MazeSolverApp/.DS_Store
+.DS_Store
+.idea
+.idea/.idea.MazeSolverSolution/.idea/aws.xml
+.idea/.idea.MazeSolverSolution/.idea/encodings.xml
+.idea/.idea.MazeSolverSolution/.idea/indexLayout.xml
+.idea/.idea.MazeSolverSolution/.idea/vcs.xml
